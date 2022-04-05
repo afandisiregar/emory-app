@@ -17,3 +17,4 @@ This application is made like a simple management dashboard, designed by yoursel
 - Open your terminal and run `yarn install` on terminal, please wait for the installation process
 - If `yarn install` done, run `yarn serve` on terminal, please wait for the compiling process.
 - If `yarn serve` done, you can open it at <a href="#">http://localhost:8080</a>
+- If you want to try logging in, open the `login.txt` file, this file contains the user's email and password that you can try
