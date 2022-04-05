@@ -1,24 +1,20 @@
-# emory-app
+# Emory app
+Emory App is an employee database application. Registered users can login and view all employee databases but the logged in user can only edit their own profile.
 
-## Project setup
-```
-yarn install
-```
+# Features
+This application is made like a simple management dashboard, designed by yourself using several features, as follows :
+- Tailwindcss
+- Vue Router
+- Vuex
+- Sweetalert
+- Vee Validate
+- Izitoast
+- Vuejs Paginate
+- Axios
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Installation
+- Git clone this <a id="raw-url" href="https://github.com/afandisiregar/emory-app.git">repository</a>
+- Open your terminal and run `yarn install` on terminal, please wait for the installation process
+- If `yarn install` done, run `yarn serve` on terminal, please wait for the compiling process.
+- If `yarn serve` done, you can open it at <a href="#">http://localhost:8080</a>
+- If you want to try logging in, open the `login.txt` file, this file contains the user's email and password that you can try
